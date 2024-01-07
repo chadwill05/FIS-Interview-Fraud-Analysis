@@ -12,10 +12,8 @@ After EDA and further analysis, this data was displayed further with Tableau. (I
 
 **5 QUESTIONS I wanted to look further into**
 1. **Identify High-Risk Transactions**: What are the top 10 transactions with the highest fraud scores, and what characteristics do they share?
-2. **Merchant Analysis**: Which merchants have the highest number of transactions and the highest total transaction amounts?
-3. **Fraud Score Band Analysis**: How does the transaction amount vary across different fraud score bands?
-4. **Fraud Score Distribution and Outliers**: What is the distribution of fraud scores across the dataset?
-5. **Merchant Category Analysis**: How do transaction amounts and fraud scores vary across different merchant categories (SIC Codes)?
-6. **Geographical Analysis**: Which countries or states have the highest average fraud scores?
-7. **Correlation Between Fraud Scores and Transaction Amounts**: Is there a correlation between transaction amounts and fraud scores?
-8. **Point of Sale Entry Mode Analysis**: How do fraud scores differ by POS entry mode?
+2. **Fraud Score Distribution and Outliers**: What is the distribution of fraud scores across the dataset?
+3. **Merchant Category Analysis**: How do transaction amounts and fraud scores vary across different merchant categories (SIC Codes)?
+4. **Geographical Analysis**: Which countries or states have the highest average fraud scores?
+5. **Correlation Between Fraud Scores and Transaction Amounts**: Is there a correlation between transaction amounts and fraud scores?
+6. **Point of Sale Entry Mode Analysis**: How do fraud scores differ by POS entry mode?
