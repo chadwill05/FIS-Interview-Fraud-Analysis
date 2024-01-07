@@ -20,9 +20,9 @@ After EDA and further analysis, this data was displayed further with Tableau. (I
 
 
 **TABLES IN THIS DATASET**
-Trn Auth Post: Transaction Authorization Posting. This likely refers to the status or details of the authorization for a transaction.
-Trn Pos Ent Cd: Transaction Point of Sale Entry Code. This could indicate how the transaction was entered at the point of sale, such as swiped, chip read, manually entered, etc.
-Sic Cd: Standard Industrial Classification Code. This is a code that indicates the type of business or industry of the merchant.
+1. Trn Auth Post: Transaction Authorization Posting. This likely refers to the status or details of the authorization for a transaction.
+2. Trn Pos Ent Cd: Transaction Point of Sale Entry Code. This could indicate how the transaction was entered at the point of sale, such as swiped, chip read, manually entered, etc.
+2. Sic Cd: Standard Industrial Classification Code. This is a code that indicates the type of business or industry of the merchant.
 Sic Desc: Standard Industrial Classification Description. The description that corresponds to the SIC code, detailing the type of merchant or industry.
 Mer Cnty Cd: Merchant Country Code. The country code where the merchant is located.
 Cntry: Country. This could also be the country of the transaction or the country associated with the account.
