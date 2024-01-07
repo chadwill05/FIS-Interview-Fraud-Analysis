@@ -23,26 +23,26 @@ After EDA and further analysis, this data was displayed further with Tableau. (I
 1. Trn Auth Post: Transaction Authorization Posting. This likely refers to the status or details of the authorization for a transaction.
 2. Trn Pos Ent Cd: Transaction Point of Sale Entry Code. This could indicate how the transaction was entered at the point of sale, such as swiped, chip read, manually entered, etc.
 2. Sic Cd: Standard Industrial Classification Code. This is a code that indicates the type of business or industry of the merchant.
-Sic Desc: Standard Industrial Classification Description. The description that corresponds to the SIC code, detailing the type of merchant or industry.
-Mer Cnty Cd: Merchant Country Code. The country code where the merchant is located.
-Cntry: Country. This could also be the country of the transaction or the country associated with the account.
-Mer St: Merchant State. The state or region where the merchant is located.
-Mer Cty: Merchant City. The city where the merchant is located.
-Mer Nm: Merchant Name. The name of the merchant where the transaction took place.
-Acct Nbr: Account Number. The account number associated with the transaction.
-Frd Scor: Fraud Score. A score indicating the likelihood that the transaction is fraudulent.
-Ext Scor2: External Score 2. This could be an additional score provided by an external system or model to assess the transaction.
-Ext Scor1: External Score 1. Similar to Ext Scor2, another score from an external source.
-Rltm Req: Real-time Request. This might indicate whether a real-time check or validation was requested for the transaction.
-Usr Ind 4: User Indicator 4. This could be a custom field used for specific user-related data or flags.
-Mer Id: Merchant ID. A unique identifier for the merchant.
-Terminal Id: Terminal ID. The identifier for the point of sale terminal where the transaction occurred.
-Terminal Entry Cap: Terminal Entry Capability. Indicates the capabilities of the terminal, such as chip, magnetic stripe, contactless, etc.
-Client 2 Xid: Client 2 External ID. A secondary identifier for the client, possibly used for linking with external systems.
-Trn Amt: Transaction Amount. The monetary value of the transaction.
-Fraud_Score_Bands: This might be a categorical representation of the fraud score, grouped into bands (e.g., low, medium, high risk).
-BIN: Bank Identification Number. The first few digits of a credit card number, which identify the issuing bank.
-Average Risk Score: An average score of risk, possibly aggregated from multiple scores or over multiple transactions.
-POS_Entry_Mode: Point of Sale Entry Mode. Describes how the card information was entered during the transaction.
-Merchant_Location: The physical or registered location of the merchant.
+4. Sic Desc: Standard Industrial Classification Description. The description that corresponds to the SIC code, detailing the type of merchant or industry.
+5. Mer Cnty Cd: Merchant Country Code. The country code where the merchant is located.
+6. Cntry: Country. This could also be the country of the transaction or the country associated with the account.
+7. Mer St: Merchant State. The state or region where the merchant is located.
+8. Mer Cty: Merchant City. The city where the merchant is located.
+9. Mer Nm: Merchant Name. The name of the merchant where the transaction took place.
+10. Acct Nbr: Account Number. The account number associated with the transaction.
+11. Frd Scor: Fraud Score. A score indicating the likelihood that the transaction is fraudulent.
+12. Ext Scor2: External Score 2. This could be an additional score provided by an external system or model to assess the transaction.
+13. Ext Scor1: External Score 1. Similar to Ext Scor2, another score from an external source.
+14. Rltm Req: Real-time Request. This might indicate whether a real-time check or validation was requested for the transaction.
+15. Usr Ind 4: User Indicator 4. This could be a custom field used for specific user-related data or flags.
+16. Mer Id: Merchant ID. A unique identifier for the merchant.
+17. Terminal Id: Terminal ID. The identifier for the point of sale terminal where the transaction occurred.
+18. Terminal Entry Cap: Terminal Entry Capability. Indicates the capabilities of the terminal, such as chip, magnetic stripe, contactless, etc.
+19. Client 2 Xid: Client 2 External ID. A secondary identifier for the client, possibly used for linking with external systems.
+20. Trn Amt: Transaction Amount. The monetary value of the transaction.
+21. Fraud_Score_Bands: This might be a categorical representation of the fraud score, grouped into bands (e.g., low, medium, high risk).
+22. BIN: Bank Identification Number. The first few digits of a credit card number, which identify the issuing bank.
+23. Average Risk Score: An average score of risk, possibly aggregated from multiple scores or over multiple transactions.
+24. POS_Entry_Mode: Point of Sale Entry Mode. Describes how the card information was entered during the transaction.
+25. Merchant_Location: The physical or registered location of the merchant.
 
