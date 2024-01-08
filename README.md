@@ -8,7 +8,6 @@ In this repository you will see a cleaned up Card Fraud Dataset. All this data w
 
 **Cons with this dataset: There was no Date Timestamp** 
 
-After EDA and further analysis, this data was displayed further with Tableau. (INSERT LINK HERE)
 
 **5 QUESTIONS I wanted to look further into**
 1. **Identify High-Risk Transactions**: What are the top 10 transactions with the highest fraud scores, and what characteristics do they share?
