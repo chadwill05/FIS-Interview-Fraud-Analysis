@@ -10,12 +10,11 @@ In this repository you will see a cleaned up Card Fraud Dataset. All this data w
 
 
 **5 QUESTIONS I wanted to look further into**
-1. **Identify High-Risk Transactions**: What are the top 10 transactions with the highest fraud scores, and what characteristics do they share?
-2. **Fraud Score Distribution and Outliers**: What is the distribution of fraud scores across the dataset?
-3. **Merchant Category Analysis**: How do transaction amounts and fraud scores vary across different merchant categories (SIC Codes)?
-4. **Geographical Analysis**: Which countries or states have the highest average fraud scores?
-5. **Correlation Between Fraud Scores and Transaction Amounts**: Is there a correlation between transaction amounts and fraud scores?
-6. **Point of Sale Entry Mode Analysis**: How do fraud scores differ by POS entry mode?
+1. **Fraud Score Distribution and Outliers**: What is the distribution of fraud scores across the dataset?
+2. How do transaction amounts vary across different fraud score bands?
+3. Which merchants have the highest number of transactions?
+4. Is there a relationship between transaction amount and fraud score?
+5. How does the average risk score differ by POS entry mode?
 
 
 **TABLES IN THIS DATASET**
