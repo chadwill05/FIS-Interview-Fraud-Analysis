@@ -4,7 +4,7 @@ I recently compleleted FIS' Card Fraud Analytics - Analyst Excel Comprehension.
 
 I have decided to take this a step further and add further analysis and go deeper into the dataset. 
 
-In this repository you will see a cleaned up Card Fraud Dataset. All this data was uploaded to a Postgresql Database to be and uploaded to Jupyter Notebook for further SQL and Python Analysis. 
+In this repository you will see a cleaned up Card Fraud Dataset. All this data was uploaded to a Postgresql Database for safekeeping and uploaded via csv to Jupyter Notebook for further Python Analysis. 
 
 **Cons with this dataset: There was no Date Timestamp** 
 
