@@ -1,6 +1,6 @@
 # FIS-Interview-Fraud-Analysis
 
-I recently compleleted FIS' Card Fraud Analytics - Analyst Excel Comprehension.
+I recently completed FIS' Card Fraud Analytics - Analyst Excel Comprehension.
 
 I have decided to take this a step further and add further analysis and go deeper into the dataset. 
 
